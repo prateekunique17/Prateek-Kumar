@@ -5,21 +5,21 @@ import { Award, CheckCircle2 } from 'lucide-react';
 const achievements = [
     {
         title: "EnvoX Hackathon",
-        role: "Team Leade | Winner",
+        role: "Member - GenInnovators | Winner",
         description: "Secured the #1 spot at Chitkara University under the theme 'Innovating Tech for Environmental Impact'. Built a comprehensive solution for environmental monitoring.",
         tags: ["React", "IoT", "Environmental Tech"],
         isWinner: true
     },
     {
         title: "Smart India Hackathon",
-        role: "Team Leader",
+        role: "Member - DevSpace",
         description: "Led a team from idea to execution under pressure, delivering a complete solution with clarity and confidence.",
         tags: ["Leadership", "Full Stack", "Problem Solving"],
         isWinner: false
     },
     {
         title: "HackShastra 2025",
-        role: "Member - Team CyberPulse",
+        role: "Team Leader - Team CyberPulse",
         description: "Successfully participated in Round 2 (Mentorship Round) organized by HackShastra.",
         tags: ["Cybersecurity", "Blockchain", "Web3"],
         isWinner: false
