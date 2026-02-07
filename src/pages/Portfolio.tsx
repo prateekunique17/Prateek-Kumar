@@ -7,21 +7,21 @@ const achievements = [
         title: "EnvoX Hackathon",
         role: "Member - GenInnovators | Winner",
         description: "Secured the #1 spot at Chitkara University under the theme 'Innovating Tech for Environmental Impact'. Built a comprehensive solution for environmental monitoring.",
-        tags: ["React", "IoT", "Environmental Tech"],
+        tags: ["React", "Node.js", "Environmental Tech"],
         isWinner: true
     },
     {
         title: "Smart India Hackathon",
         role: "Member - DevSpace",
         description: "Led a team from idea to execution under pressure, delivering a complete solution with clarity and confidence.",
-        tags: ["Leadership", "Full Stack", "Problem Solving"],
+        tags: ["Leadership", "Python", "Problem Solving"],
         isWinner: false
     },
     {
         title: "HackShastra 2025",
         role: "Team Leader - Team CyberPulse",
         description: "Successfully participated in Round 2 (Mentorship Round) organized by HackShastra.",
-        tags: ["Cybersecurity", "Blockchain", "Web3"],
+        tags: ["React JS", "Python", "Web3"],
         isWinner: false
     }
 ];
@@ -29,7 +29,9 @@ const achievements = [
 const certifications = [
     "Microsoft Certified: Azure AI Fundamentals",
     "AI and Disaster Management (United Latino Students Association)",
-    "Natural Disaster and Climate Change Risk Assessment (BID)"
+    "Natural Disaster and Climate Change Risk Assessment (BID)",
+    "Python fundamentals from Coursera"
+
 ];
 
 export const Portfolio = () => {

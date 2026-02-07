@@ -8,13 +8,11 @@ const commands = {
   email     - Get in touch
   github    - Check my code
   linkedin  - Professional profile
-  clear     - Clear terminal
-  whoami    - Current user`,
+  clear     - Clear terminal`,
     about: "I am Prateek, a developer who crafts digital experiences. I believe in executing in silence and letting output speak. Obsessed with excellence and building things that matter.",
     email: "prateekunique17@gmail.com",
     github: "https://github.com/prateekunique17",
     linkedin: "https://www.linkedin.com/in/prateek-kumar-a31ab5323/",
-    whoami: "visitor@portfolio",
     sudo: "Permission denied: You are not authorized to run sudo on this portfolio.",
 };
 
@@ -83,7 +81,7 @@ Type a command to start...`
                 </div>
                 <div className="flex items-center gap-2 text-white/40 text-xs">
                     <TerminalIcon size={12} />
-                    <span>visitor@portfolio: ~</span>
+                    <span>Prateek's Terminal</span>
                 </div>
                 <div className="w-12" /> {/* Spacer for centering */}
             </div>
