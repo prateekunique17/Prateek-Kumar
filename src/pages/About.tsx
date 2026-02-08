@@ -11,16 +11,17 @@ const education = [
         degree: "Bachelor of Engineering - BE, CSE (AI/ML)",
         period: "Jul 2025 - Aug 2029",
     },
+     {
+        school: "S.D. Senior Secondary School",
+        degree: "Grade: 12th",
+        period: "Apr 2023 - Mar 2025",
+    },
     {
         school: "Saupin's School",
         degree: "Grade: 10th",
         period: "Apr 2011 - Mar 2023",
     },
-    {
-        school: "S.D. Senior Secondary School",
-        degree: "Grade: 12th",
-        period: "Apr 2023 - Mar 2025",
-    }
+   
 ];
 
 export const About = () => {
